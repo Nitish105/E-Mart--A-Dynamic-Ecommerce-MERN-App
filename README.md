@@ -8,7 +8,19 @@ This is a MERN-based Application and is deployed on a cyclic hosting website.
 ### Frontend Part: React, CSS
 ### Backend Part: Nodejs, Express, RestAPI
 ### Database Part: MongoDB
-## Deployed: Cyclic  
+### Deployed: Cyclic  
+
+## Features:
+* Payment Gateway Integration Using Braintree with PayPal <br>
+-> For Payment use: <br> 
+   Card No.: 4242 4242 4242 4242 <br>
+   Expiry Date: 12/25 <br>
+   CVV: 123  
+* Filter by prices and categories.
+* Authentication and Authorization using JWT.
+* Admin panel for categories, and products creation.
+* The Add to Cart feature is included in this application.
+* Register, Login, and Forgot password page features are also included.
 
 ## Demo Work:
 ![screencapture-cute-pink-walrus-cyclic-app-2024-01-18-02_08_04](https://github.com/Nitish105/E-Mart--Ecommerce-MERN-App/assets/83354680/22e7403d-c49d-4136-a6aa-cdfcb0d63a12)

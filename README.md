@@ -1,1 +1,1 @@
-# E-Mart-An-Ecommerce-MERN-App
+# E-MART : An Ecommerce Application

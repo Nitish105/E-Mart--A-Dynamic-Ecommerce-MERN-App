@@ -1,14 +1,14 @@
-# E-MART : An E-commerce Application
+# E-MART: A Dynamic E-Commerce Application
 Link 👉 https://cute-pink-walrus.cyclic.app/
 
 ## Introduction 
 This is a MERN-based Application and is deployed on a cyclic hosting website.
 
 ## Technologies Used:
-### Frontend Part: React, CSS
-### Backend Part: Nodejs, Express, RestAPI
-### Database Part: MongoDB
-### Deployed: Cyclic  
+* Frontend Part: React, Bootstrap, Ant Design
+* Backend Part: Nodejs, Express, RestAPI
+* Database Part: MongoDB
+* Deployed: Cyclic  
 
 ## Features:
 * Payment Gateway Integration Using Braintree with PayPal <br>
@@ -18,7 +18,7 @@ This is a MERN-based Application and is deployed on a cyclic hosting website.
    CVV: 123  
 * Filter by prices and categories.
 * Authentication and Authorization using JWT.
-* Admin panel for categories, and products creation.
+* Admin panel for categories, and products creation. And also having the user panel.
 * The Add to Cart feature is included in this application.
 * Register, Login, and Forgot password page features are also included.
 

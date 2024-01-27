@@ -6,7 +6,7 @@ This is a MERN-based Application and is deployed on a cyclic hosting website.
 
 ## Technologies Used:
 * Frontend Part: React, Bootstrap, Ant Design
-* Backend Part: Nodejs, Express, RestAPI
+* Backend Part: Nodejs, Express, Context API, RestAPI
 * Database Part: MongoDB
 * Deployed: Cyclic  
 

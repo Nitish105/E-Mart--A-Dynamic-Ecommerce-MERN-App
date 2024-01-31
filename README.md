@@ -1,5 +1,5 @@
 # E-MART: A Dynamic E-Commerce Application
-Link 👉 https://cute-pink-walrus.cyclic.app/
+Link 👉 https://emart-dynamic-ecommerce-app.onrender.com/
 
 ## Introduction 
 This is a MERN-based Application and is deployed on a cyclic hosting website.

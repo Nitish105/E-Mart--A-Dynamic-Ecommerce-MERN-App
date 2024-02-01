@@ -8,7 +8,7 @@ This is a MERN-based Application and is deployed on a cyclic hosting website.
 * Frontend Part: React, Bootstrap, Ant Design
 * Backend Part: Nodejs, Express, Context API, RestAPI
 * Database Part: MongoDB
-* Deployed: Cyclic  
+* Deployed: Render
 
 ## Features:
 * Payment Gateway Integration Using Braintree with PayPal <br>

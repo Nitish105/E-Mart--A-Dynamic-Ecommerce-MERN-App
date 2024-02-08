@@ -6,7 +6,7 @@ This is a MERN-based Application and is deployed on a render hosting website.
 
 ## Technologies Used:
 * Frontend Part: React, Bootstrap, Ant Design
-* Backend Part: Node, Express, ContextAPI
+* Backend Part: Nodejs, Expressjs, ContextAPI
 * Database Part: MongoDB
 * Deployed: Render
 
@@ -26,4 +26,9 @@ This is a MERN-based Application and is deployed on a render hosting website.
 * Search Engine Optimization(SEO) friendly Using Slugify.
 
 ## Demo Work:
+### Screenshot:
 ![screencapture-cute-pink-walrus-cyclic-app-2024-01-18-02_08_04](https://github.com/Nitish105/E-Mart--Ecommerce-MERN-App/assets/83354680/22e7403d-c49d-4136-a6aa-cdfcb0d63a12)
+
+## 🔗 Links
+[![Project Deploy](https://img.shields.io/badge/my_project_deploy-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emart-dynamic-ecommerce-app.onrender.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar105/)

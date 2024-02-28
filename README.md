@@ -5,8 +5,8 @@ Link 👉 https://emart-dynamic-ecommerce-app.onrender.com/
 This is a MERN-based Application and is deployed on a render hosting website.
 
 ## Technologies Used:
-* Frontend Part: React, Bootstrap, Ant Design
-* Backend Part: Nodejs, Expressjs, ContextAPI
+* Frontend Part: React, Bootstrap, Ant Design, Context API
+* Backend Part: Nodejs, Expressjs
 * Database Part: MongoDB
 * Deployed: Render
 
